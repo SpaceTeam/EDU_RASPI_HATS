@@ -1,0 +1,28 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,93.472,-88.138,-90,top
+C2,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,86.106,-90.424,90,top
+C3,10nF 25V,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,92.71,-102.108,180,top
+C4,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,112.776,-91.694,-90,top
+C5,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,110.744,-89.408,0,top
+C6,100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,92.7365,-100.711,0,top
+C7,10uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,92.7365,-99.314,0,top
+C8,10nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,112.522,-106.68,-90,top
+C9,0.1µF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,85.852,-79.756,90,top
+C10,1µF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,85.852,-75.946,-90,top
+D1,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,96.52,-73.66,90,top
+D2,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,105.664,-73.66,90,top
+D3,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,102.616,-73.66,90,top
+D4,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,99.568,-73.66,90,top
+R1,5k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,89.154,-107.442,0,top
+R2,4k7,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,107.95,-90.17,90,top
+R3,4k7,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,107.95,-93.472,-90,top
+R4,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,96.52,-70.104,-90,top
+R5,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,105.664,-70.104,-90,top
+R6,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,102.616,-70.104,-90,top
+R7,1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,99.568,-70.104,-90,top
+R8,4k7,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,88.392,-81.788,0,top
+U1,BME688,Bosch_LGA-8_3x3mm_P0.8mm_ClockwisePinNumbering,89.662,-89.408,-90,top
+U2,L3GD20H,LGA-16_3x3mm_P0.5mm,91.313,-104.775,0,top
+U3,BMM150,WLCSP-12_1.56x1.56mm_P0.4mm,110.236,-92.456,90,top
+U4,TMP112AIDRLT,SOT-563,109.474,-105.918,0,top
+U5,ADXL345BCCZ-RL,LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y,89.154,-77.47,0,top
